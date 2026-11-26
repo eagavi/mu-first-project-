@@ -1,2 +1,2 @@
-# mu-first-project-
+# my-first-project-
 My beginner programming projects
